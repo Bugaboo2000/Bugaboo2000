@@ -1,4 +1,6 @@
-<p align="center">Hello 👋</p>
+<html>
+  <body>
+<h1 align="center" style="font-size; 60px;">Hello 👋</h1>
 <br>
 <p>My name is Gustavo, but you can call me Gus!!</p>
 <br>
@@ -24,3 +26,6 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bugaboo2000&show_icons=true&locale=en" alt="bugaboo2000" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bugaboo2000&" alt="bugaboo2000" /></p>
+</body>
+  </html>
+
