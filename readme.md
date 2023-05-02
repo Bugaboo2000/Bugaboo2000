@@ -4,7 +4,7 @@
 <br>
 <p>My name is Gustavo, but you can call me Gus!!</p>
 <br>
-<h3>I am a passionate developer from Brazil</h3>
+<h3>Greetings from Brazil development</h3>
 <br>
 
 -  🌱 I’m currently learning **Web and software development**
