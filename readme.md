@@ -14,7 +14,7 @@
 <h3 >Linguagens e Ferramentas:</h3>
 
 
-<div style="display:flex;">
+<div style="display:flex; align-itens:flex-start;">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="shellscript" width="40" height="40"/></a>
 <em style="padding:10px;"> Shellscript</em> <br><br> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <em style="padding:10px;"> C++</em> <br><br> 
@@ -25,7 +25,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  <em style="padding:10px;"> Python</em> <br><br>
 </div>
 <br>
-<div class="status" style="display:flex;">
+<div class="status" style="display:flex; align-itens:flex-start;">
 <p>&nbsp;<img style="padding:10px;" src="https://github-readme-stats.vercel.app/api?username=bugaboo2000&show_icons=true&locale=en" alt="bugaboo2000" /></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bugaboo2000&show_icons=true&locale=en&layout=compact" alt="bugaboo2000"</p>
 </div>
 
