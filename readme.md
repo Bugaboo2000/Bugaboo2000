@@ -2,7 +2,7 @@
   <body>
 <h1 style="font-size; 60px;">Hello 👋</h1>
     <br>
-<p>My name is Gustavo, but you can call me Gus!!</p>
+    <p align=center><i>My name is Gustavo, but you can call me Gus!!</i></p>
     
 -  🌱  I am an **Enthusiast Software and Web Developer**
 
