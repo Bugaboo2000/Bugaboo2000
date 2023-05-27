@@ -1,20 +1,20 @@
 <html>
   <body>
     
-<h1 style="font-size; 60px;">Olá 👋</h1>
+<h1 style="font-size; 60px;">Hello 👋</h1>
 <br>
 <p>My name is Gustavo, but you can call me Gus!!</p>
     
--  🌱 Sou um entusiasta em **Desenvolvimento Web e de Software**
+-  🌱 I am an **Enthusiast Software and Web Developer**
 
-- ❤  **Eu gosto de programar para ajudar os usuários e pela ciência**
+- ❤  **I like to programming to help another users, for passion, and for science**
 
-- 📫 Você pode entrar em <a href="gustavoribeirodev@gmail.com ">contato comigo</a> 
+- 📫 You can contact me <a href="gustavoribeirodev@gmail.com ">Here</a> 
 <br>
-<h3 >Linguagens e Ferramentas:</h3>
+<h3 >Languages and Tools:</h3>
 
 
-<div style="display:flex; align-itens:flex-start;">
+<div style="display: flex; justify-content: flex-start; align-items: space-evenly">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="shellscript" width="40" height="40"/></a>
 <em style="padding:10px;"> Shellscript</em> <br><br> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <em style="padding:10px;"> C++</em> <br><br> 
@@ -26,7 +26,7 @@
 </div>
 <br>
 <div class="status" style="display:flex; align-itens:flex-start;">
-<p>&nbsp;<img style="padding:10px;" src="https://github-readme-stats.vercel.app/api?username=bugaboo2000&show_icons=true&locale=en" alt="bugaboo2000" /></p> <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bugaboo2000&show_icons=true&locale=en&layout=compact" alt="bugaboo2000"</p>
+<p>&nbsp;<img style="padding:10px;" src="https://github-readme-stats.vercel.app/api?username=bugaboo2000&show_icons=true&locale=en" alt="bugaboo2000" /></p> <p></p>
 </div>
 
 
