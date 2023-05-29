@@ -1,6 +1,6 @@
 <html>
   <body>
-<h1 style="font-size; 60px;">Hello 👋</h1>
+<h1 align="center" style="font-size; 101px;">Hello 👋</h1>
     <br>
     <p align=center><i>My name is Gustavo, but you can call me Gus!!</i></p>
     
