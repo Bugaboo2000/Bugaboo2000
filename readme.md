@@ -10,7 +10,7 @@
 
 - 📫  You can contact me <a style="text-decoration:none; cursor:pointer;" href="gustavoribeirodev@gmail.com ">Here</a>
 <br>
-<h3 >Languages and Tools:</h3>
+<h3 style="underline:none; text-decoration:none; underline:none; cursor:pointer">Languages and Tools:</h3>
 
 <div style="align-items: space-evenly;">
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="shellscript" width="40" height="40"/></a>
